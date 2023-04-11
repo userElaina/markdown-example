@@ -13,6 +13,10 @@ $$
 \verb+\blacktriangleright+&\blacktriangleright\\
 \verb+\unlhd+&\unlhd&
 \verb+\unrhd+&\unrhd\\
+\verb+\ntriangleleft+&\ntriangleleft&
+\verb+\ntriangleright+&\ntriangleright\\
+\verb+\ntrianglelefteq+&\ntrianglelefteq&
+\verb+\ntrianglerighteq+&\ntrianglerighteq\\
 \hline
 \verb+\uparrow+&\uparrow&
 \verb+\Uparrow+&\Uparrow\\
